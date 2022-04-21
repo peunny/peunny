@@ -1,0 +1,11 @@
+name: "peunny"
+output_dir: "."
+navbar:
+  title: "peunny"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Padmapriya Eunny"
+      href: peunny.html
